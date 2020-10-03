@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+.div1{
+    background-color:white;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.div2{
+    background-color:white;
+    width: 70%;
+    height: 15%;
+    float: left;
+}
+.div3{
+    background-color:white;
+    width: 70%;
+    height: 85%;
+    float: left;
+}
+.campo-formulario{
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 2px;
+    border: solid 1px #cccccc; 
+    font-family: 'Arial'; 
+}
+.botao{
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #088a68;
+    border: none;
+    border-radius: 2px;
+    color: white;
+}
+.botao:hover{
+    background-color: #04b486;
+}
